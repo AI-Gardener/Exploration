@@ -1,0 +1,4 @@
+[submodule "Pezzza-s-pendulum"]
+	path = Pezzza-s-pendulum
+	url = https://github.com/AI-Gardener/Pezzza-s-pendulum
+	branch = main
