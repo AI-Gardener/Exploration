@@ -2,3 +2,7 @@
 	path = Pezzza-s-pendulum
 	url = https://github.com/AI-Gardener/Pezzza-s-pendulum
 	branch = main
+[submodule "opencl"]
+	path = opencl
+	url = https://github.com/AI-Gardener/opencl-exploration
+	branch = main
